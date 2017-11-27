@@ -1,0 +1,28 @@
+{
+  "name": "thomas-dillard-studios",
+  "version": "1.0.0",
+  "description": "GitHub portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": ".*-test\\.js$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLGhozt/Thomas-dillard-studios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HTMLGhozt/Thomas-dillard-studios/issues"
+  },
+  "homepage": "https://github.com/HTMLGhozt/Thomas-dillard-studios#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-ssi": "^1.1.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "jest": "^21.2.1",
+    "mongoose": "^4.13.5"
+  }
+}
