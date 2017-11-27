@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "amd": true,
+    "jest": true
+  },
+  "parserOptions": {
+      ecmaVersion: 6,
+      ecmaFeatures: {
+          jsx: true,
+      },
+      sourceType: "module"
+  },
+}
